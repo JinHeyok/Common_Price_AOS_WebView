@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "954889427119",
+    "project_id": "banmal-55440",
+    "storage_bucket": "banmal-55440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954889427119:android:dce90118fbe1ed14b2dc5a",
+        "android_client_info": {
+          "package_name": "com.banmal.web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954889427119-ob8ms7i2u0rg17lpgp34m284nbvpdqhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.banmal.web",
+            "certificate_hash": "dd0760b93ff554abb21392001f6b9b8c7ccd1851"
+          }
+        },
+        {
+          "client_id": "954889427119-4sddn9h0qr5dt8593rg3b4smtopnem1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQ41ob87sp-DA0q0CMzAkyg0KP99D39s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954889427119-4sddn9h0qr5dt8593rg3b4smtopnem1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
